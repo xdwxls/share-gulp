@@ -1,0 +1,25 @@
+{
+  "name": "share-gulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdwxls/share-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdwxls/share-gulp/issues"
+  },
+  "homepage": "https://github.com/xdwxls/share-gulp#readme",
+  "keywords": [],
+  "description": ""
+}
